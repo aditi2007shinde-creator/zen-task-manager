@@ -1,0 +1,2 @@
+Welcome to ZenTask (Project Alpha), a sleek, glass-inspired task manager designed specifically for students to balance coursework, projects, and personal goals without the clutter.
+ZenTask is a lightweight web application built to help you stay organized. Instead of juggling multiple tabs and messy notebooks, this dashboard provides a clean, "glassmorphic" interface to track what needs to get done.
